@@ -1,5 +1,5 @@
 # About-Me
-I'm Praveen
+
 <a href="[https://github.com/Praveenku32k/]">
   <img align="center"    src="https://github.com/Praveenku32k/PraveeKumar/blob/main/Pink%20and%20Purple%20Floral%20Patterned%20General%20Linkedin%20Banner%20(1).gif?raw=true" />
 </a>
